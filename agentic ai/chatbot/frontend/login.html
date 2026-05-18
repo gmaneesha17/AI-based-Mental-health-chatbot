@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Log In - Clarity</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="auth-bg">
+    <div class="auth-container">
+        <div class="logo form-logo">
+            <span class="logo-icon">🌿</span>
+            <h2>Clarity</h2>
+        </div>
+        <form id="login-form" class="auth-form">
+            <h3>Welcome Back</h3>
+            <div id="error-msg" class="error-hidden"></div>
+            <div class="input-group">
+                <label for="username">Username</label>
+                <input type="text" id="username" required>
+            </div>
+            <div class="input-group">
+                <label for="password">Password</label>
+                <input type="password" id="password" required>
+            </div>
+            <button type="submit" class="btn-primary full-width">Log In</button>
+            <p class="auth-switch">Don't have an account? <a href="register.html">Sign up here</a></p>
+        </form>
+    </div>
+    <script src="auth.js"></script>
+</body>
+</html>
