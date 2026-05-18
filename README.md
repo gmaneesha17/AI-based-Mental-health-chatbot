@@ -1,0 +1,3 @@
+Title : AI-Based Mental Health Chatbot
+Problem Statement: 
+Many people, especially students, face mental health challenges such as stress, anxiety, and depression in their daily lives. Due to academic pressure from exams, placements, and continuous studies, students often feel overwhelmed and emotionally drained. However, there is a lack of immediate and accessible mental health support systems that can assist them at the right time. Therefore, there is a strong need for a 24/7 AI-based solution that can provide instant emotional support, guidance, and basic mental health assistance whenever required.
